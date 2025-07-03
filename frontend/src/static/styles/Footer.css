@@ -1,0 +1,20 @@
+footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cadetblue;
+    width:100%;
+    position:absolute;
+    bottom: 0;
+}
+
+.thought {
+    display: flex;
+    justify-content: center;
+    color: lightcyan;
+    font-size: 25px;
+}
+
+.cr {
+    display: flex;
+    justify-content: center;
+    color: lightcyan;
+}

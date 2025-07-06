@@ -59,8 +59,8 @@ terraform destroy
 
 # User Screens
 
-![](https://github.com/Vaishnavigoli17/DevOps-Project/blob/main/Screenshots/Register.PNG?raw=true)
-![](https://github.com/Vaishnavigoli17/DevOps-Project/blob/main/Screenshots/Login.PNG?raw=true)
+![](https://github.com/Vaishnavigoli17/DevOps-Project/blob/main/Screenshots/Register-Page.PNG?raw=true)
+![](https://github.com/Vaishnavigoli17/DevOps-Project/blob/main/Screenshots/Login-Page.PNG?raw=true)
 ![](https://github.com/Vaishnavigoli17/DevOps-Project/blob/main/Screenshots/HomeTodo.PNG?raw=true)
 
 # Run application (Local Testing)

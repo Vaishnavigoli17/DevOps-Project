@@ -9,7 +9,7 @@ function Footer(){
                 <i>~ "Set your goals like never before"</i>
             </div>
             <div className="cr">
-                <h6>To-do App - Copyright Restricted</h6>
+                <h6>To-do App - Copyright Restricted For testing</h6>
             </div>
         </footer>
     )
